@@ -1,0 +1,6 @@
+{
+  "name": "VoiceNova - AI Voice Cloning & TTS",
+  "description": "Enterprise-grade AI Voice Cloning and Text-to-Speech platform featuring neural acoustic voice cloning, realistic multi-accent voice library, audio player with waveform visualizer, generation history, and complete Admin management dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
